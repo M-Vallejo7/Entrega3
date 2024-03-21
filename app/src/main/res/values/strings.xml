@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Entrega3</string>
+    <string name="nombre">Nombre Usuario</string>
+    <string name="telefono">Telefono Usuario</string>
+</resources>
